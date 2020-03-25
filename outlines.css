@@ -36,7 +36,7 @@ main::before {
 main,
 header,
 footer {
-  background-color: #f3faff;
+  background-color: #C24FF0;
   border: 2px solid #7fc1ff;
 }
 
@@ -57,13 +57,7 @@ aside::before {
 
 h1 {
   font-size: 18px;
-  background-color: #ffffff;
-  border: 2px solid #ff994f;
-}
-
-h1::before {
-  content: "h1";
-  color: #ff994f;
+  background-color: #DE9CF8;
 }
 
 p {
@@ -95,40 +89,4 @@ p::before {
   font-size: 11px;
   line-height: 10px;
   letter-spacing: 0.04em;
-}
-
-html::before {
-  content: "html";
-}
-
-body::before {
-  content: "body";
-}
-
-main::before {
-  content: "main";
-}
-
-header::before {
-  content: "header";
-}
-
-footer::before {
-  content: "footer";
-}
-
-section::before {
-  content: "section";
-}
-
-article::before {
-  content: "article";
-}
-
-aside::before {
-  content: "aside";
-}
-
-nav::before {
-  content: "nav";
 }

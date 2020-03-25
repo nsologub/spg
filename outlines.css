@@ -12,15 +12,23 @@
   src: url("fonts/Montserrat-Bold.woff") format("woff");
 }
 
+html{
+  background-color: #34E3DA;
+}
+
 html,
 body {
   margin: 0;
   font-family: "Montserrat", "Arial", sans-serif;
-  font-size: 14px;
+  font-size: 25px;
   line-height: 20px;
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 37px;
+  background-color: #DE9CF8;
+}
+h2 {
+  font-size: 34px;
   background-color: #DE9CF8;
 }

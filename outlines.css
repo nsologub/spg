@@ -1,0 +1,14 @@
+html{
+  background-color: #78BBFF;
+}
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 203px;
+}
+p{
+  color: #0E3A66;
+}
